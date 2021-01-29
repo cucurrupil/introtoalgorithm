@@ -8,21 +8,20 @@ texto normal a piece of code
 
 function test() 
 
-{​​​​ 
+{
 
     console.log("look ma’, no spaces");
 
-}​​​​
+}
 
 ```
 
 normal text
 
 ```python
-
 print(another code block)
+```
 
-``` 
 ### encabezado 3 como generar listas
 
 * elemento
