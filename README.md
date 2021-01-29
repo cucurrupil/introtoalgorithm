@@ -38,7 +38,9 @@ print(another code block)
 
 3. another **negritas** _cursiva_ y normal
 
-__negritas__ *cursiva* normal $E = \frac{​​​​1}​​​​{​​​​2}​​​​mv^2$ ## Operators
+__negritas__ *cursiva* normal 
+$E = \frac{​​​​1}​​​​{​​​​2}​​​​mv^2$ 
+## Operators
 
 logical operators are 
 
